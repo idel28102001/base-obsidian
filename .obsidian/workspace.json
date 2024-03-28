@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "periodic/daily/dally.md.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/daily/dally.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/daily/dally.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "periodic/daily/dally.md.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bba639a0a1be542",
+  "active": "84f834952f5ea481",
   "lastOpenFiles": [
-    "Untitled.md",
     "home/homepage.md",
+    "periodic/daily/dally.md.md",
+    "Untitled.md",
     "templates/_inbox template.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
