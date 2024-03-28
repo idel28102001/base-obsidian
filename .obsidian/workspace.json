@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/books.md",
-                "mode": "preview",
+                "file": "projects/podcasts.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/books.md",
+                "file": "projects/podcasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/books.md",
+                "file": "projects/podcasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/books.md"
+                "file": "projects/podcasts.md"
               }
             }
           },
@@ -214,13 +214,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "de505bb97b457e8a",
   "lastOpenFiles": [
-    "templates/book template.md",
     "projects/books.md",
+    "projects/podcasts.md",
+    "templates/book template.md",
     "projects/books/Untitled.md",
     "projects/books",
     "templates/video template.md",
