@@ -1,1 +1,6 @@
-{}
+{
+  "attachmentFolderPath": "files",
+  "userIgnoreFilters": [
+    "files/"
+  ]
+}

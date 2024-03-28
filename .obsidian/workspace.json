@@ -138,10 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6547d22806de09e",
+  "active": "84f834952f5ea481",
   "lastOpenFiles": [
+    "periodic/weekly",
+    "periodic/daily",
+    "dailyUntitled",
+    "periodic",
+    "home",
+    "Welcome.md",
+    "files",
     "New Some.md",
-    "Somadas.md",
-    "Welcome.md"
+    "Somadas.md"
   ]
 }
