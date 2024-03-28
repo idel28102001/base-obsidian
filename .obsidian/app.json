@@ -1,6 +1,10 @@
 {
   "attachmentFolderPath": "files",
   "userIgnoreFilters": [
-    "files/"
+    "files/",
+    "periodic/daily/",
+    "periodic/weekly/",
+    "periodic/templates/",
+    "templates/"
   ]
 }
