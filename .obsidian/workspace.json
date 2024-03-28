@@ -11,11 +11,76 @@
             "id": "da63f2e5dc6c6141",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/article template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4459da1653187bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/book template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb251193798c0a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/course template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9413e867e6407d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/movie template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f9fde31e385d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/podcast template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de505bb97b457e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/book template.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/book template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/book template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/daily/2024-03-06.md"
+                "file": "templates/book template.md"
               }
             }
           },
@@ -150,8 +217,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84f834952f5ea481",
+  "active": "de505bb97b457e8a",
   "lastOpenFiles": [
+    "templates/video template.md",
+    "templates/podcast template.md",
+    "templates/movie template.md",
+    "templates/course template.md",
+    "templates/book template.md",
+    "templates/article template.md",
     "periodic/daily/2024-03-06.md",
     "periodic/weekly/weekly.md",
     "periodic/daily/2024-03-28.md",
@@ -163,7 +236,6 @@
     "periodic/daily/daiky.md",
     "periodic/daily/dally.md.md",
     "periodic/daily/dally.md",
-    "Untitled.md",
     "templates/_inbox template.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
