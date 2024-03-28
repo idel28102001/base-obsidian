@@ -16,7 +16,11 @@
   "folder_templates": [
     {
       "folder": "periodic/daily",
-      "template": ""
+      "template": "periodic/daily/daily.md"
+    },
+    {
+      "folder": "periodic/weekly",
+      "template": "periodic/periodic/weekly.md"
     }
   ],
   "syntax_highlighting": true,
