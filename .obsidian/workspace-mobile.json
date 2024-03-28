@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/_inbox template.md",
+                "file": "periodic/daily/daily.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/_inbox template.md",
+            "file": "periodic/daily/daily.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templates/_inbox template.md",
+            "file": "periodic/daily/daily.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templates/_inbox template.md"
+            "file": "periodic/daily/daily.md"
           }
+        }
+      },
+      {
+        "id": "107aba5938b298e2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -123,18 +131,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7cdfdc5581bcedf1",
   "lastOpenFiles": [
+    "periodic/daily/свод по дням.md",
+    "periodic/daily/daily.md",
     "home/homepage.md",
     "templates/_inbox template.md",
+    "periodic/daily",
+    "periodic",
+    "periodic/weekly/weekly.md",
+    "periodic/weekly",
+    "periodic/weekly/свод по неделям.md",
+    "/periodic/weekly/свод по неделям.md",
+    "/periodic/weekly/weekly.md",
+    "/periodic/daily/свод по дням.md",
+    "/periodic/daily/daily.md",
+    "/periodic/weekly",
+    "/periodic/daily",
+    "/periodic",
     "templates",
     "/templates/_inbox template.md",
     "/templates",
