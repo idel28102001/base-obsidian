@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/weekly/свод по неделям.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/weekly/свод по неделям.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/weekly/свод по неделям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "periodic/weekly/свод по неделям.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   "active": "5bba639a0a1be542",
   "lastOpenFiles": [
     "periodic/daily/свод по дням.md",
-    "periodic/daily/daily.md",
     "periodic/weekly/свод по неделям.md",
     "periodic/weekly/weekly.md",
+    "periodic/daily/daily.md",
     "home/homepage.md",
     "periodic/daily/daiky.md",
     "periodic/daily/dally.md.md",
