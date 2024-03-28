@@ -1,3 +1,6 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "note-refactor-obsidian",
+  "obsidian-better-internal-link-inserter"
 ]

@@ -15,7 +15,7 @@
               "state": {
                 "file": "home/homepage.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "right": {
     "id": "6dc7e8f08a463593",
@@ -143,13 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5bba639a0a1be542",
   "lastOpenFiles": [
-    "home/Untitled.canvas",
+    "Untitled.md",
     "home/homepage.md",
+    "templates/_inbox template.md",
+    "Untitled.canvas",
+    "home/Untitled.canvas",
     "templates",
     "projects",
     "periodic/templates",
