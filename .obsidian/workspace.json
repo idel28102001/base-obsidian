@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "projects/podcasts.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -197,6 +197,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2588b18bdfc83930",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -220,15 +228,15 @@
   },
   "active": "de505bb97b457e8a",
   "lastOpenFiles": [
+    "templates/podcast template.md",
     "projects/books.md",
-    "projects/podcasts.md",
     "templates/book template.md",
+    "templates/course template.md",
+    "projects/podcasts.md",
     "projects/books/Untitled.md",
     "projects/books",
     "templates/video template.md",
-    "templates/podcast template.md",
     "templates/movie template.md",
-    "templates/course template.md",
     "templates/article template.md",
     "periodic/daily/2024-03-06.md",
     "periodic/weekly/weekly.md",
