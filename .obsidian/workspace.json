@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "periodic/weekly/свод по неделям.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/weekly/свод по неделям.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/weekly/свод по неделям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "periodic/weekly/свод по неделям.md"
               }
+            }
+          },
+          {
+            "id": "1e7202a32269efd0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -144,13 +152,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "5bba639a0a1be542",
   "lastOpenFiles": [
-    "Untitled.md",
+    "periodic/daily/свод по дням.md",
+    "periodic/weekly/свод по неделям.md",
+    "periodic/weekly/weekly.md",
+    "periodic/daily/daily.md",
     "home/homepage.md",
+    "periodic/daily/daiky.md",
+    "periodic/daily/dally.md.md",
+    "periodic/daily/dally.md",
+    "Untitled.md",
     "templates/_inbox template.md",
     "Untitled.canvas",
     "home/Untitled.canvas",

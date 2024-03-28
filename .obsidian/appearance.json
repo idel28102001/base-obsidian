@@ -2,6 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "naked-embeds"
   ]
 }

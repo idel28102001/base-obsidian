@@ -2,5 +2,8 @@
   "obsidian-git",
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian-better-internal-link-inserter"
+  "obsidian-better-internal-link-inserter",
+  "calendar",
+  "periodic-notes",
+  "dataview"
 ]
