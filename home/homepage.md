@@ -1,12 +1,12 @@
 ---
 cssclasses:
-  - dashboard
-  - max
+	- dashboard
+	- max
 aliases:
-  - дом
-  - д
-  - home
-  - h
+	- дом
+	- д
+	- home
+	- h
 ---
 🚪Точки входа
 📅 [[свод по дням]]
