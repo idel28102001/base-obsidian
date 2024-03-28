@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "periodic/weekly/weekly.md",
+                "file": "periodic/daily/daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/weekly/weekly.md",
+                "file": "periodic/daily/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/weekly/weekly.md",
+                "file": "periodic/daily/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/weekly/weekly.md"
+                "file": "periodic/daily/daily.md"
               }
             }
           },
@@ -152,15 +152,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "5bba639a0a1be542",
   "lastOpenFiles": [
+    "periodic/weekly/weekly.md",
     "periodic/daily/daily.md",
     "periodic/daily/daiky.md",
     "home/homepage.md",
-    "periodic/weekly/weekly.md",
     "periodic/daily/dally.md.md",
     "periodic/daily/dally.md",
     "Untitled.md",
