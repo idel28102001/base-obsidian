@@ -16,20 +16,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "333dfc43dd51a4e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec052221449f1df6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New Some.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84f834952f5ea481",
+  "active": "a6547d22806de09e",
   "lastOpenFiles": [
     "New Some.md",
     "Somadas.md",
