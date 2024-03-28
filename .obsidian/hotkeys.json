@@ -23,6 +23,13 @@
         "Alt"
       ],
       "key": "n"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
-  ]
+  ],
+  "file-explorer:new-file": []
 }
