@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc107deb0b41973",
+        "id": "bf95e6c6a374a8b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a6547d22806de09e",
+            "id": "5bba639a0a1be542",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home/homepage.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84f834952f5ea481",
+  "active": "5bba639a0a1be542",
   "lastOpenFiles": [
+    "home/Untitled.canvas",
+    "home/homepage.md",
     "templates",
     "projects",
     "periodic/templates",
