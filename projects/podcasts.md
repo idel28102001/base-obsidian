@@ -1,7 +1,6 @@
 ---
 type: podcast
-aliases: 
-	- "`"
+aliases: "`"
 ---
 
 ## В процессе

@@ -1,7 +1,6 @@
 ---
 type: article
-aliases:
-	-";"
+aliases: ";"
 ---
 ## В процессе
 **status:** ==wip== *(work in progress)*

@@ -1,7 +1,6 @@
 ---
 type: course
-aliases:
-	-"{"
+aliases: "{"
 ---
 ## В процессе
 **status:** ==wip== *(work in progress)*

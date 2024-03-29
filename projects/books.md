@@ -1,10 +1,9 @@
-
 ---
 type: book
 aliases: "&"
 ---
-%%cssClass: cards%%##
-В процессе
+%%cssClass: cards%%
+## В процессе
 **status:** ==wip== *(work in progress)*
 ```dataview
 TABLE WITHOUT ID

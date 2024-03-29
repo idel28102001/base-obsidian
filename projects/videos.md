@@ -1,7 +1,6 @@
 ---
 type: video
-aliases:
-	-"$"
+aliases: "$"
 ---
 ## В процессе
 **status:** ==wip== *(work in progress)*

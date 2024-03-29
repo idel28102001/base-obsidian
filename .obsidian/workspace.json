@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "projects/movies.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -168,19 +168,19 @@
   },
   "active": "da63f2e5dc6c6141",
   "lastOpenFiles": [
-    "projects/books.md",
-    "templates/article template.md",
-    "projects/courses.md",
-    "templates/course template.md",
-    "templates/_inbox template.md",
-    "projects/articles.md",
+    "projects/podcasts.md",
     "projects/videos.md",
     "templates/video template.md",
-    "projects/movies.md",
-    "projects/podcasts.md",
-    "templates/movie template.md",
-    "templates/book template.md",
     "templates/podcast template.md",
+    "templates/movie template.md",
+    "templates/course template.md",
+    "templates/book template.md",
+    "templates/article template.md",
+    "templates/_inbox template.md",
+    "projects/movies.md",
+    "projects/courses.md",
+    "projects/books.md",
+    "projects/articles.md",
     "projects/books/Untitled.md",
     "projects/books",
     "periodic/daily/2024-03-06.md",

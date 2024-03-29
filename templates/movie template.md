@@ -1,4 +1,3 @@
-
 <%*
 let title = tp.file.title;
 if (title.startsWith("Untitled")) {
@@ -12,6 +11,7 @@ aliases:
 cover: {{VALUE:Poster}}
 status: todo
 recommendedby:
+
 ---
 ___
 tags::
