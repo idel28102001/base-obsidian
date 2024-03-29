@@ -1,7 +1,7 @@
 ---
 type: movie
-aliases: 
-	-"%"
+aliases:
+	- "%"
 ---
 %%cssClass: cards%%
 ## В процессе

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/article template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4459da1653187bd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/course template.md",
-                "mode": "source",
+                "file": "projects/movies.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/course template.md",
+                "file": "projects/movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/course template.md",
+                "file": "projects/movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/course template.md"
+                "file": "projects/movies.md"
               }
             }
           },
@@ -175,12 +162,16 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "4459da1653187bd3",
+  "active": "da63f2e5dc6c6141",
   "lastOpenFiles": [
+    "projects/books.md",
     "templates/article template.md",
+    "projects/courses.md",
+    "templates/course template.md",
     "templates/_inbox template.md",
     "projects/articles.md",
     "projects/videos.md",
@@ -189,9 +180,7 @@
     "projects/podcasts.md",
     "templates/movie template.md",
     "templates/book template.md",
-    "templates/course template.md",
     "templates/podcast template.md",
-    "projects/books.md",
     "projects/books/Untitled.md",
     "projects/books",
     "periodic/daily/2024-03-06.md",
@@ -216,7 +205,6 @@
     "periodic",
     "home",
     "Welcome.md",
-    "files",
-    "New Some.md"
+    "files"
   ]
 }

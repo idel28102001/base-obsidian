@@ -9,4 +9,14 @@ await tp.file.rename(title)
 type: course
 aliases:
 	- "{ <%* tR += title %>"
-status: todorecommendedby:---___tags:: prev:: [[courses|назад в библиотеку]]category::url::children::___<% tp.file.cursor(0) %>
+status: todo
+recommendedby:
+---
+___
+tags::
+prev:: [[courses|назад в библиотеку]]
+category::
+url::
+children::
+___
+<% tp.file.cursor(0) %>
