@@ -1,7 +1,7 @@
 ---
-type: video
+type: article
 aliases:
-	-"$"
+	-";"
 ---
 ## В процессе
 **status:** ==wip== *(work in progress)*
@@ -11,25 +11,25 @@ TABLE WITHOUT ID
 	url,
 	category AS "Категория"
 	FROM !"templates"
-	WHERE type = "video" AND status = "wip"
+	WHERE type = "article" AND status = "wip"
 ```
 ## Ожидают прочтения
 **status:** ==todo==
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Название",
+	file.link AS "Название",	
 	url,
 	category AS "Категория"
 	FROM !"templates"
-	WHERE type = "video" AND status = "todo"
+	WHERE type = "article" AND status = "todo"
 ```
-## Завершённые**
-status:** ==done==
+## Завершённые
+**status:** ==done==
 ```dataview
-TABLE WITHOUT ID
+	TABLE WITHOUT ID
 	file.link AS "Название",
 	url,
 	category AS "Категория"
-	FROM !"templates"
-	WHERE type = "video" AND status = "done"
+FROM !"templates"
+WHERE type = "article" AND status = "done"
 ```
