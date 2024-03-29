@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "home/mermaid.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88773ec7756a435f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "home/mermaid.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dbae142734d164ef",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "home/mermaid.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3bb4a0e28f4bd0b2",
             "type": "leaf",
             "state": {
@@ -118,40 +89,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "11d82489d526b906",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "home/mermaid.md"
-              }
-            }
-          },
-          {
-            "id": "1e7202a32269efd0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2588b18bdfc83930",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +108,15 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open today": false,
       "media-extended:Open media": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "5a02491668f156b9",
   "lastOpenFiles": [
     "home/inbox and pending and orphan notes.md",
-    "home/mermaid.md",
     "home/homepage.md",
+    "home/mermaid.md",
     "Home.md",
     "templates/_inbox template.md",
     "projects/articles.md",

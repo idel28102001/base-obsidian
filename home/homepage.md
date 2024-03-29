@@ -17,3 +17,5 @@ ___
 - <mark style="background: #FFB8EBA6;">⚫others</mark>
 	- 📥[[inbox and pending and orphan notes]]
 ___
+
+- 🆘 help
