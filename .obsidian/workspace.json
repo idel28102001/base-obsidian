@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/mermaid.md",
-                "mode": "source",
+                "file": "home/homepage.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -114,9 +114,9 @@
   },
   "active": "5a02491668f156b9",
   "lastOpenFiles": [
-    "home/inbox and pending and orphan notes.md",
+    "home/help.md",
     "home/homepage.md",
-    "home/mermaid.md",
+    "home/inbox and pending and orphan notes.md",
     "Home.md",
     "templates/_inbox template.md",
     "projects/articles.md",

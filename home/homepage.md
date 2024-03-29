@@ -18,4 +18,4 @@ ___
 	- 📥[[inbox and pending and orphan notes]]
 ___
 
-- 🆘 help
+- 🆘 [[help]]
