@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/inbox.md",
-                "mode": "preview",
+                "file": "projects/inbox and pending and orphan notes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/inbox.md",
+                "file": "projects/inbox and pending and orphan notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/inbox.md",
+                "file": "projects/inbox and pending and orphan notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/inbox.md"
+                "file": "projects/inbox and pending and orphan notes.md"
               }
             }
           },
@@ -167,10 +167,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5a02491668f156b9",
+  "active": "84f834952f5ea481",
   "lastOpenFiles": [
-    "projects/inbox.md",
     "home/homepage.md",
+    "projects/inbox and pending and orphan notes.md",
     "Home.md",
     "templates/_inbox template.md",
     "projects/articles.md",
