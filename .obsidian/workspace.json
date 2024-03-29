@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "home/buttons.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 700.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,13 +109,15 @@
       "periodic-notes:Open today": false,
       "media-extended:Open media": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "5a02491668f156b9",
   "lastOpenFiles": [
-    "home/help.md",
     "home/homepage.md",
+    "home/buttons.md",
+    "home/help.md",
     "home/inbox and pending and orphan notes.md",
     "Home.md",
     "templates/_inbox template.md",
@@ -140,7 +142,6 @@
     "periodic/daily/2024-03-06.md",
     "periodic/daily/2024-03-28.md",
     "2024-03-28.md",
-    "periodic/daily/daily.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
     "templates",
