@@ -14,7 +14,8 @@ templater true
 ```
 ___
 ```button
-name 🎬 movietype command
+name 🎬 movie
+type command
 action QuickAdd: add movie
 templater true 
 ```
@@ -24,6 +25,38 @@ type note(Untitled) template
 action article template
 templater true
 ```
-```butto
-nname 📺 video
-type note(Untitled) templateaction video templatetemplater true``````buttonname 📘 booktype commandaction Book Search: Create new book notetemplater true ``````buttonname 📻 podcasttype commandaction PodNotes: Create Podcast Notetemplater true ``````buttonname 🧑‍🏫 course type note(Untitled) templateaction course templatetemplater true```********```buttonname 🃏flashcardstype commandaction Spaced Repetition: Review flashcards from all notes``````buttonname ⏳reviewtype commandaction Spaced Repetition: Open a note for review```
+```button
+name 📺 video
+type note(Untitled) template
+action video template
+templater true
+```
+```button
+name 📘 book
+type command
+action Book Search: Create new book note
+templater true 
+```
+```button
+name 📻 podcast
+type command
+action PodNotes: Create Podcast Note
+templater true 
+```
+```button
+name 🧑‍🏫 course 
+type note(Untitled) template
+action course template
+templater true
+```
+********
+```button
+name 🃏flashcards
+type command
+action Spaced Repetition: Review flashcards from all notes
+```
+```button
+name ⏳review
+type command
+action Spaced Repetition: Open a note for review
+```
