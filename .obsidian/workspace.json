@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/movie template.md",
-                "mode": "source",
+                "file": "projects/movies.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/movie template.md",
+                "file": "projects/movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/movie template.md",
+                "file": "projects/movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/movie template.md"
+                "file": "projects/movies.md"
               }
             }
           },
@@ -180,12 +180,13 @@
   },
   "active": "4459da1653187bd3",
   "lastOpenFiles": [
+    "projects/podcasts.md",
+    "projects/movies.md",
+    "templates/movie template.md",
     "templates/_inbox template.md",
     "templates/article template.md",
     "templates/book template.md",
     "templates/course template.md",
-    "templates/movie template.md",
-    "projects/podcasts.md",
     "templates/podcast template.md",
     "projects/books.md",
     "projects/books/Untitled.md",
