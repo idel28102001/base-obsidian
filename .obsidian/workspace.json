@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/movies.md",
-                "mode": "preview",
+                "file": "projects/videos.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/movies.md",
+                "file": "projects/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/movies.md",
+                "file": "projects/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/movies.md"
+                "file": "projects/videos.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "4459da1653187bd3",
   "lastOpenFiles": [
-    "projects/podcasts.md",
+    "templates/video template.md",
+    "projects/videos.md",
     "projects/movies.md",
+    "projects/podcasts.md",
     "templates/movie template.md",
     "templates/_inbox template.md",
     "templates/article template.md",
@@ -191,7 +193,6 @@
     "projects/books.md",
     "projects/books/Untitled.md",
     "projects/books",
-    "templates/video template.md",
     "periodic/daily/2024-03-06.md",
     "periodic/weekly/weekly.md",
     "periodic/daily/2024-03-28.md",
