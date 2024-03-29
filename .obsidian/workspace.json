@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/book template.md",
+                "file": "templates/movie template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/book template.md",
+                "file": "templates/movie template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/book template.md",
+                "file": "templates/movie template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/book template.md"
+                "file": "templates/movie template.md"
               }
             }
           },
@@ -180,16 +180,17 @@
   },
   "active": "4459da1653187bd3",
   "lastOpenFiles": [
+    "templates/_inbox template.md",
+    "templates/article template.md",
+    "templates/book template.md",
     "templates/course template.md",
     "templates/movie template.md",
     "projects/podcasts.md",
     "templates/podcast template.md",
     "projects/books.md",
-    "templates/book template.md",
     "projects/books/Untitled.md",
     "projects/books",
     "templates/video template.md",
-    "templates/article template.md",
     "periodic/daily/2024-03-06.md",
     "periodic/weekly/weekly.md",
     "periodic/daily/2024-03-28.md",
@@ -201,7 +202,6 @@
     "periodic/daily/daiky.md",
     "periodic/daily/dally.md.md",
     "periodic/daily/dally.md",
-    "templates/_inbox template.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
     "templates",
