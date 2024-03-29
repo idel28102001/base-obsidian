@@ -14,5 +14,6 @@ ___
 	- [[books]]
 	- [[movies]]
 	- [[podcasts]]
-- <mark style="background: #FFB8EBA6;">👀content</mark>
+- <mark style="background: #FFB8EBA6;">⚫others</mark>
+	- 📥[[inbox and pending and orphan notes]]
 ___

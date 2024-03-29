@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/inbox and pending and orphan notes.md",
+                "file": "home/mermaid.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/inbox and pending and orphan notes.md",
+                "file": "home/mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/inbox and pending and orphan notes.md",
+                "file": "home/mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/inbox and pending and orphan notes.md"
+                "file": "home/mermaid.md"
               }
             }
           },
@@ -167,10 +167,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84f834952f5ea481",
+  "active": "5a02491668f156b9",
   "lastOpenFiles": [
+    "home/inbox and pending and orphan notes.md",
+    "home/mermaid.md",
     "home/homepage.md",
-    "projects/inbox and pending and orphan notes.md",
     "Home.md",
     "templates/_inbox template.md",
     "projects/articles.md",
@@ -195,7 +196,6 @@
     "periodic/daily/2024-03-28.md",
     "2024-03-28.md",
     "periodic/daily/daily.md",
-    "periodic/daily/daiky.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
     "templates",
