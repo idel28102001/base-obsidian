@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/_inbox template.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/_inbox template.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/_inbox template.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/_inbox template.md"
+                "file": "home/homepage.md"
               }
             }
           },
@@ -168,15 +168,16 @@
   },
   "active": "da63f2e5dc6c6141",
   "lastOpenFiles": [
-    "projects/movies.md",
+    "home/homepage.md",
+    "templates/_inbox template.md",
     "Untitled.md",
+    "projects/movies.md",
     "templates/book template.md",
     "templates/movie template.md",
     "templates/video template.md",
     "templates/podcast template.md",
     "templates/course template.md",
     "templates/article template.md",
-    "templates/_inbox template.md",
     "projects/videos.md",
     "projects/podcasts.md",
     "projects/courses.md",
@@ -190,7 +191,6 @@
     "periodic/daily/2024-03-06.md",
     "periodic/daily/2024-03-28.md",
     "2024-03-28.md",
-    "home/homepage.md",
     "periodic/daily/daily.md",
     "periodic/daily/daiky.md",
     "periodic/daily/dally.md.md",
