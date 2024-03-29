@@ -7,5 +7,11 @@ ___
 - 🗓️ [[свод по неделям]]
 
 - <mark style="background: #FFB8EBA6;">👀content</mark>
-	- articles
+	- [[articles]]
+	- [[videos]]
+	- [[courses]]
+- <mark style="background: #FFB8EBA6;">👀content</mark>
+	- [[books]]
+	- [[movies]]
+	- [[podcasts]]
 ___
