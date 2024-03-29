@@ -6,8 +6,7 @@ if (title.startsWith("Untitled")) {
 await tp.file.rename(title)
 -%>---
 type: movie
-aliases:
-	- "% <%* tR += title %>"
+aliases: "% <%* tR += title %>"
 cover: {{VALUE:Poster}}
 status: todo
 recommendedby:

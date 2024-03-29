@@ -7,8 +7,7 @@ if (title.startsWith("Untitled")) {
 await tp.file.rename(title)
 -%>---
 type: article
-aliases:
-	- "; <%* tR += title %>"
+aliases: "; <%* tR += title %>"
 status: todo
 recommendedby:
 

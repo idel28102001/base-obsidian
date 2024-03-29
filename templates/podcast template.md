@@ -8,8 +8,7 @@ await tp.file.rename(title);
 -%>---
 type: podcast
 podcast: {{podcast}}
-aliases: 
-	- "` <%* tR += title %>"
+aliases:  "` <%* tR += title %>"
 cover: {{artwork}}
 status: todo
 recommendedby:

@@ -7,8 +7,7 @@ if (title.startsWith("Untitled")) {
 await tp.file.rename(title)
 -%>---
 type: video
-aliases:
-	- "$ <%* tR += title %>"
+aliases: "$ <%* tR += title %>"
 status: todo
 recommendedby:
 

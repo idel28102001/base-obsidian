@@ -6,8 +6,7 @@ title = await tp.system.prompt("Title");
 await tp.file.rename(title)
 -%>---
 type: book
-aliases:
-	- "& <%* tR += title %>"
+aliases: "& <%* tR += title %>"
 cover: {{coverUrl}}
 start:
 end:
