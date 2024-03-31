@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "30cb610aebd89074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0a8b5115955ff96f",
@@ -192,13 +204,14 @@
   },
   "active": "c3a0ad24594f2351",
   "lastOpenFiles": [
+    "index.md",
+    "templates/_inbox template.md",
+    "projects/articles.md",
+    "Article.md",
     "home/homepage.md",
     "home/buttons.md",
-    "Article.md",
     "home/inbox and pending and orphan notes.md",
-    "projects/articles.md",
     "home/help.md",
-    "templates/_inbox template.md",
     "NewArticle.md",
     "templates/podcast template.md",
     "templates/movie template.md",
@@ -217,7 +230,6 @@
     "periodic/weekly/свод по неделям.md",
     "periodic/daily/свод по дням.md",
     "periodic/weekly/weekly.md",
-    "projects/books/Untitled.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
