@@ -143,11 +143,13 @@
             }
           },
           {
-            "id": "67d28edfe6673d60",
+            "id": "c3a0ad24594f2351",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -188,13 +190,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67d28edfe6673d60",
+  "active": "c3a0ad24594f2351",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "home/buttons.md",
+    "Article.md",
     "home/inbox and pending and orphan notes.md",
     "projects/articles.md",
-    "home/homepage.md",
-    "Article.md",
-    "home/buttons.md",
     "home/help.md",
     "templates/_inbox template.md",
     "NewArticle.md",
