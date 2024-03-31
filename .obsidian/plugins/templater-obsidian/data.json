@@ -29,7 +29,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "templates/_inbox template.md"
   ],
   "enable_ribbon_icon": true
 }
