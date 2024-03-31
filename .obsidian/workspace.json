@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "home/buttons.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "home/buttons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "home/buttons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "home/buttons.md"
               }
             }
           },
@@ -170,15 +170,16 @@
   },
   "active": "c67e92dba73ad1a4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "templates/article template.md",
     "home/buttons.md",
+    "Untitled.md",
+    "projects/books.md",
+    "templates/_inbox template.md",
+    "home/inbox and pending and orphan notes.md",
     "home/homepage.md",
     "home/help.md",
-    "home/inbox and pending and orphan notes.md",
     "Home.md",
-    "templates/_inbox template.md",
     "projects/articles.md",
-    "projects/books.md",
     "projects/courses.md",
     "projects/videos.md",
     "projects/movies.md",
@@ -188,7 +189,6 @@
     "templates/video template.md",
     "templates/podcast template.md",
     "templates/course template.md",
-    "templates/article template.md",
     "periodic/weekly/свод по неделям.md",
     "periodic/daily/свод по дням.md",
     "periodic/weekly/weekly.md",
