@@ -51,20 +51,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты по статье Управление_знаниями_obsidian.md",
-                "mode": "source",
-                "source": false
+                "file": "минимализм и простота при обработке информации.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
           {
-            "id": "8fff22fe2813eebd",
+            "id": "5da108f10e661d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "рабочий процесс обработки информации.md",
-                "mode": "source",
+                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f966fba0f5b4c9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "минимализм и простота при обработке информации.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -87,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "последовательность и постепенность.md",
+                "file": "без страха и без плана обрабатывать информацию.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "последовательность и постепенность.md",
+                "file": "минимализм и простота при обработке информации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "последовательность и постепенность.md",
+                "file": "минимализм и простота при обработке информации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "последовательность и постепенность.md",
+                "file": "минимализм и простота при обработке информации.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "последовательность и постепенность.md"
+                "file": "минимализм и простота при обработке информации.md"
               }
             }
           }
@@ -311,14 +323,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad6add35d093069d",
+  "active": "684d4e391cf1ad8f",
   "lastOpenFiles": [
-    "минимализм и простота при обработке информации.md",
-    "последовательность и постепенность.md",
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
-    "рабочий процесс обработки информации.md",
-    "templates/_inbox template.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
+    "минимализм и простота при обработке информации.md",
+    "рабочий процесс обработки информации.md",
+    "без страха и без плана обрабатывать информацию.md",
+    "последовательность и постепенность обработки информации.md",
+    "templates/_inbox template.md",
     "база данных.md",
     "обработка информации для базы знаний.md",
     "home/homepage.md",
@@ -338,7 +351,6 @@
     "InboxFile.md",
     "new-inbox.md",
     "projects/books.md",
-    "Home.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
