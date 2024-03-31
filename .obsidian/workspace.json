@@ -35,21 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Управление знаниями в Obsidian - источник.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "acfa5d5dd03dc2ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/articles.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Управление знаниями в Obsidian.md",
+                "file": "Управление знаниями в Obsidian - источник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Управление знаниями в Obsidian.md",
+                "file": "Управление знаниями в Obsidian - источник.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Управление знаниями в Obsidian.md",
+                "file": "Управление знаниями в Obsidian - источник.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Управление знаниями в Obsidian.md"
+                "file": "Управление знаниями в Obsidian - источник.md"
               }
             }
           }
@@ -247,14 +235,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de6ddc3059a71583",
+  "active": "e8e6d697452ba762",
   "lastOpenFiles": [
-    "projects/articles.md",
     "Управление знаниями в Obsidian.md",
-    "home/homepage.md",
-    "index.md",
     "база данных.md",
-    "obsidian.md",
+    "index.md",
+    "projects/articles.md",
+    "Управление знаниями в Obsidian - источник.md",
+    "home/homepage.md",
     "home/buttons.md",
     "templates/_inbox template.md",
     "Article.md",
