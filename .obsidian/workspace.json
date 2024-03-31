@@ -25,48 +25,16 @@
             "id": "30421b7a12ff17ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e8e6d697452ba762",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Управление знаниями в Obsidian - источник.md",
+                "file": "обработка информации.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "de6ddc3059a71583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md",
-                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e95d9789b201cb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md",
+                "file": "обработка информации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md",
+                "file": "обработка информации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md",
+                "file": "обработка информации.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "конспекты по статье Управление знаниями obsidian.md"
+                "file": "обработка информации.md"
               }
             }
           }
@@ -247,14 +215,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84f834952f5ea481",
+  "active": "30421b7a12ff17ab",
   "lastOpenFiles": [
     "Управление знаниями в Obsidian - источник.md",
-    "projects/articles.md",
     "home/homepage.md",
-    "конспекты по статье Управление знаниями obsidian.md",
+    "конспекты по статье Управление_знаниями_obsidian.md",
     "база данных.md",
+    "обработка информации.md",
     "index.md",
+    "projects/articles.md",
     "home/buttons.md",
     "templates/_inbox template.md",
     "Article.md",
@@ -274,7 +243,6 @@
     "projects/videos.md",
     "projects/movies.md",
     "projects/podcasts.md",
-    "templates/video template.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
