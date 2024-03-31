@@ -1,6 +1,6 @@
 ---
 type: article
-aliases: "NewArticle"
+aliases: "Article"
 status: todo
 recommendedby:
 

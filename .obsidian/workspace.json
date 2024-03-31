@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8df8085ba35f5a",
+        "id": "b028ac691f378a2c",
         "type": "tabs",
-        "dimension": 41.5055951169888,
         "children": [
           {
-            "id": "f27ef5212f205239",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "68688e611b8ee166",
-        "type": "tabs",
-        "dimension": 29.247202441505596,
-        "children": [
-          {
-            "id": "27edffb09f14836c",
+            "id": "96595eaa4b568b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,17 +22,16 @@
         ]
       },
       {
-        "id": "e3a036a360ed17a7",
+        "id": "685275ba10c9733d",
         "type": "tabs",
-        "dimension": 29.247202441505596,
         "children": [
           {
-            "id": "b20d88d44c7e6dd7",
+            "id": "dd6eadde05d11d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NewArticle.md",
+                "file": "home/dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NewArticle.md",
+                "file": "home/dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NewArticle.md",
+                "file": "home/dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NewArticle.md"
+                "file": "home/dashboard.md"
               }
             }
           },
@@ -203,10 +186,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b20d88d44c7e6dd7",
+  "active": "84f834952f5ea481",
   "lastOpenFiles": [
+    "Article.md",
+    "projects/articles.md",
     "home/buttons.md",
-    "NewArticle.md",
+    "home/dashboard.md",
+    "home/help.md",
+    "home/inbox and pending and orphan notes.md",
     "templates/_inbox template.md",
     "NewArticle.md",
     "templates/podcast template.md",
@@ -215,12 +202,8 @@
     "templates/book template.md",
     "templates/article template.md",
     "InboxFile.md",
-    "projects/articles.md",
     "new-inbox.md",
     "projects/books.md",
-    "home/inbox and pending and orphan notes.md",
-    "home/homepage.md",
-    "home/help.md",
     "Home.md",
     "projects/courses.md",
     "projects/videos.md",
