@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "649f055674b53105",
+        "id": "e04b22d3f3967e63",
         "type": "tabs",
         "children": [
           {
-            "id": "5a02491668f156b9",
+            "id": "c67e92dba73ad1a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/buttons.md",
+                "file": "home/homepage.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -89,6 +89,61 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "762c1d0ea97966af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a8fbf5e510c32a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home/homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320840f488a3e843",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home/homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc6158af085ae627",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home/homepage.md"
+              }
+            }
+          },
+          {
+            "id": "efe68f296b44b311",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
           }
         ]
       }
@@ -106,14 +161,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false,
       "media-extended:Open media": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5a02491668f156b9",
+  "active": "c67e92dba73ad1a4",
   "lastOpenFiles": [
     "Untitled.md",
     "home/buttons.md",
