@@ -4,18 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4a067c2bf234ced9",
+        "id": "8b8df8085ba35f5a",
         "type": "tabs",
+        "dimension": 41.5055951169888,
         "children": [
           {
-            "id": "bbcd8342bfd3d6c5",
+            "id": "f27ef5212f205239",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "68688e611b8ee166",
+        "type": "tabs",
+        "dimension": 29.247202441505596,
+        "children": [
+          {
+            "id": "27edffb09f14836c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/buttons.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3a036a360ed17a7",
+        "type": "tabs",
+        "dimension": 29.247202441505596,
+        "children": [
+          {
+            "id": "b20d88d44c7e6dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewArticle.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -104,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/buttons.md",
+                "file": "NewArticle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/buttons.md",
+                "file": "NewArticle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/buttons.md"
+                "file": "NewArticle.md"
               }
             }
           },
@@ -168,35 +203,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbcd8342bfd3d6c5",
+  "active": "b20d88d44c7e6dd7",
   "lastOpenFiles": [
-    "InboxFile.md",
     "home/buttons.md",
-    "new-inbox.md",
-    "templates/article template.md",
-    "projects/books.md",
+    "NewArticle.md",
     "templates/_inbox template.md",
+    "NewArticle.md",
+    "templates/podcast template.md",
+    "templates/movie template.md",
+    "templates/course template.md",
+    "templates/book template.md",
+    "templates/article template.md",
+    "InboxFile.md",
+    "projects/articles.md",
+    "new-inbox.md",
+    "projects/books.md",
     "home/inbox and pending and orphan notes.md",
     "home/homepage.md",
     "home/help.md",
     "Home.md",
-    "projects/articles.md",
     "projects/courses.md",
     "projects/videos.md",
     "projects/movies.md",
     "projects/podcasts.md",
-    "templates/book template.md",
-    "templates/movie template.md",
     "templates/video template.md",
-    "templates/podcast template.md",
-    "templates/course template.md",
     "periodic/weekly/свод по неделям.md",
     "periodic/daily/свод по дням.md",
     "periodic/weekly/weekly.md",
     "projects/books/Untitled.md",
     "projects/books",
-    "periodic/daily/2024-03-06.md",
-    "periodic/daily/2024-03-28.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
     "templates",

@@ -4,11 +4,10 @@ type note(Untitled, split) template
 action _inbox template
 templater true
 ```
-^button-UntitledID
 ___
 ```button
-name 🧾 article
-type note(Untitled) template
+name 🧾article
+type note(Untitled, split) template
 action article template
 templater true
 ```
