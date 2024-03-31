@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "67d28edfe6673d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/inbox and pending and orphan notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/inbox and pending and orphan notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/inbox and pending and orphan notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +143,7 @@
             }
           },
           {
-            "id": "d2c22381c6146f9d",
+            "id": "67d28edfe6673d60",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home/inbox and pending and orphan notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,8 +173,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -207,12 +190,12 @@
   },
   "active": "67d28edfe6673d60",
   "lastOpenFiles": [
+    "home/inbox and pending and orphan notes.md",
+    "projects/articles.md",
     "home/homepage.md",
     "Article.md",
-    "projects/articles.md",
     "home/buttons.md",
     "home/help.md",
-    "home/inbox and pending and orphan notes.md",
     "templates/_inbox template.md",
     "NewArticle.md",
     "templates/podcast template.md",
