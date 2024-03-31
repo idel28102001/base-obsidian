@@ -1,9 +1,9 @@
 ---
 type: article
-aliases: "упрвление obsidian"
-status: todo
+aliases:
+  - упрвление obsidian
+status: wip
 recommendedby:
-
 ---
 ___
 tags:: знание
