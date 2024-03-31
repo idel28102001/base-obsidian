@@ -29,7 +29,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -157,15 +157,25 @@
           {
             "id": "c3a0ad24594f2351",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831ea51b43d61951",
+            "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "8dd48e7469eb6f0b",
@@ -202,13 +212,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3a0ad24594f2351",
+  "active": "831ea51b43d61951",
   "lastOpenFiles": [
+    "home/homepage.md",
     "index.md",
+    "база данных.md",
     "templates/_inbox template.md",
     "projects/articles.md",
     "Article.md",
-    "home/homepage.md",
     "home/buttons.md",
     "home/inbox and pending and orphan notes.md",
     "home/help.md",
@@ -229,7 +240,6 @@
     "templates/video template.md",
     "periodic/weekly/свод по неделям.md",
     "periodic/daily/свод по дням.md",
-    "periodic/weekly/weekly.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
