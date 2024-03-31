@@ -15,7 +15,7 @@
               "state": {
                 "file": "home/buttons.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 700.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +170,9 @@
   },
   "active": "bbcd8342bfd3d6c5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "InboxFile.md",
     "home/buttons.md",
+    "new-inbox.md",
     "templates/article template.md",
     "projects/books.md",
     "templates/_inbox template.md",
@@ -196,7 +197,6 @@
     "projects/books",
     "periodic/daily/2024-03-06.md",
     "periodic/daily/2024-03-28.md",
-    "2024-03-28.md",
     "Untitled.canvas",
     "home/Untitled.canvas",
     "templates",
