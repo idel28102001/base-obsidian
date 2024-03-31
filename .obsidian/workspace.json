@@ -27,14 +27,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "обработка информации.md",
-                "mode": "preview",
+                "file": "обработка информации для базы знаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f8c299f3b383ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "база данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "684d4e391cf1ad8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по статье Управление_знаниями_obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fff22fe2813eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "рабочий процесс обработки информации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a21e3159835a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "рабочий процесс обработки информации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad6add35d093069d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "последовательность и постепенность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c91b901f7d5339b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae927117051bf103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по статье Управление_знаниями_obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "722584f44b04dc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -63,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "обработка информации.md",
+                "file": "последовательность и постепенность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "обработка информации.md",
+                "file": "последовательность и постепенность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "обработка информации.md",
+                "file": "последовательность и постепенность.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "обработка информации.md"
+                "file": "последовательность и постепенность.md"
               }
             }
           }
@@ -215,17 +311,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30421b7a12ff17ab",
+  "active": "ad6add35d093069d",
   "lastOpenFiles": [
-    "Управление знаниями в Obsidian - источник.md",
-    "home/homepage.md",
+    "минимализм и простота при обработке информации.md",
+    "последовательность и постепенность.md",
+    "идеи формирующие рабочий процесс в контексте базы знаний.md",
+    "рабочий процесс обработки информации.md",
+    "templates/_inbox template.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
     "база данных.md",
-    "обработка информации.md",
+    "обработка информации для базы знаний.md",
+    "home/homepage.md",
+    "Управление знаниями в Obsidian - источник.md",
     "index.md",
     "projects/articles.md",
     "home/buttons.md",
-    "templates/_inbox template.md",
     "Article.md",
     "home/inbox and pending and orphan notes.md",
     "home/help.md",
@@ -239,10 +339,6 @@
     "new-inbox.md",
     "projects/books.md",
     "Home.md",
-    "projects/courses.md",
-    "projects/videos.md",
-    "projects/movies.md",
-    "projects/podcasts.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
