@@ -6,9 +6,9 @@ recommendedby:
 
 ---
 ___
-tags::
+tags:: знание
 prev::[[articles|назад в библиотеку]]
-category::
+category:: знание
 url::
 children::
 ___
