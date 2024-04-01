@@ -10,7 +10,7 @@
           {
             "id": "5a0eb2034d92e0ad",
             "type": "tabs",
-            "dimension": 80.62015503875969,
+            "dimension": 58.333333333333336,
             "children": [
               {
                 "id": "84ad9eadc72a9f63",
@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Управление знаниями в Obsidian - источник.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -29,7 +29,7 @@
           {
             "id": "571575ca899a207a",
             "type": "tabs",
-            "dimension": 19.379844961240313,
+            "dimension": 41.66666666666667,
             "children": [
               {
                 "id": "3bf18a49afa01697",
@@ -37,9 +37,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "обработка информации для базы знаний.md",
+                    "file": "рабочий процесс обработки информации.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   }
                 }
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Управление знаниями в Obsidian - источник.md",
+                "file": "рабочий процесс обработки информации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Управление знаниями в Obsidian - источник.md",
+                "file": "рабочий процесс обработки информации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Управление знаниями в Obsidian - источник.md",
+                "file": "рабочий процесс обработки информации.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Управление знаниями в Obsidian - источник.md"
+                "file": "рабочий процесс обработки информации.md"
               }
             }
           }
@@ -243,16 +243,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ad9eadc72a9f63",
+  "active": "3bf18a49afa01697",
   "lastOpenFiles": [
     "обработка информации для базы знаний.md",
     "Управление знаниями в Obsidian - источник.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
+    "база данных.md",
     "projects/articles.md",
     "без страха и без плана обрабатывать информацию.md",
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
     "index.md",
-    "база данных.md",
     "рабочий процесс обработки информации.md",
     "home/homepage.md",
     "минимализм и простота при обработке информации.md",
