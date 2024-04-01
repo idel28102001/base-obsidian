@@ -4,145 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "685275ba10c9733d",
+        "id": "5a0eb2034d92e0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6eadde05d11d6e",
+            "id": "84ad9eadc72a9f63",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "30421b7a12ff17ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "обработка информации для базы знаний.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f8c299f3b383ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684d4e391cf1ad8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "минимализм и простота при обработке информации.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5da108f10e661d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f966fba0f5b4c9bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "минимализм и простота при обработке информации.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15a21e3159835a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "рабочий процесс обработки информации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad6add35d093069d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "без страха и без плана обрабатывать информацию.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c91b901f7d5339b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae927117051bf103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конспекты по статье Управление_знаниями_obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "722584f44b04dc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи формирующие рабочий процесс в контексте базы знаний.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +48,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "минимализм и простота при обработке информации.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "минимализм и простота при обработке информации.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "минимализм и простота при обработке информации.md",
+                "file": "home/homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,6 +159,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "e2731543c0ef89a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65e604f2b99efa3d",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -296,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "минимализм и простота при обработке информации.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -323,7 +216,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "684d4e391cf1ad8f",
+  "active": "84ad9eadc72a9f63",
   "lastOpenFiles": [
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
