@@ -4,49 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "89af9f1863be51d8",
-        "type": "split",
+        "id": "b99ac5ec53669cea",
+        "type": "tabs",
         "children": [
           {
-            "id": "5a0eb2034d92e0ad",
-            "type": "tabs",
-            "dimension": 58.333333333333336,
-            "children": [
-              {
-                "id": "84ad9eadc72a9f63",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Управление знаниями в Obsidian - источник.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "632d62cd670a05e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "571575ca899a207a",
-            "type": "tabs",
-            "dimension": 41.66666666666667,
-            "children": [
-              {
-                "id": "3bf18a49afa01697",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "запиши заметку.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "4caafaacce4eb04c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "запиши заметку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "запиши заметку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +140,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "запиши заметку.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "запиши заметку.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,8 +222,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bf18a49afa01697",
+  "active": "4caafaacce4eb04c",
   "lastOpenFiles": [
+    "home/homepage.md",
     "рабочий процесс обработки информации.md",
     "запиши заметку.md",
     "обработка информации для базы знаний.md",
@@ -255,7 +235,6 @@
     "без страха и без плана обрабатывать информацию.md",
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
     "index.md",
-    "home/homepage.md",
     "минимализм и простота при обработке информации.md",
     "последовательность и постепенность обработки информации.md",
     "templates/_inbox template.md",
