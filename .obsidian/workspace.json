@@ -4,33 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b99ac5ec53669cea",
-        "type": "tabs",
+        "id": "0afdb567bfbdfd3c",
+        "type": "split",
         "children": [
           {
-            "id": "632d62cd670a05e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
-                "source": false
+            "id": "b99ac5ec53669cea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "632d62cd670a05e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian - источник.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "4caafaacce4eb04c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+            "id": "2b32b22a9bd7ae18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b296a7c2713ec229",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "новая заметка - начало других заметок.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -59,6 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "новая заметка - начало других заметок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "новая заметка - начало других заметок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "новая заметка - начало других заметок.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "новая заметка - начало других заметок.md"
+              }
             }
           }
         ]
@@ -222,16 +241,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4caafaacce4eb04c",
+  "active": "b296a7c2713ec229",
   "lastOpenFiles": [
-    "home/homepage.md",
     "рабочий процесс обработки информации.md",
+    "новая заметка - начало других заметок.md",
+    "Управление знаниями в Obsidian - источник.md",
+    "память ограничена.md",
     "запиши заметку.md",
     "обработка информации для базы знаний.md",
-    "Управление знаниями в Obsidian - источник.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
-    "база данных.md",
     "projects/articles.md",
+    "home/homepage.md",
+    "база данных.md",
     "без страха и без плана обрабатывать информацию.md",
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
     "index.md",
@@ -248,8 +269,6 @@
     "templates/course template.md",
     "templates/book template.md",
     "templates/article template.md",
-    "InboxFile.md",
-    "new-inbox.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
