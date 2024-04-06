@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "критическое мышление.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "критическое мышление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "критическое мышление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "home/homepage.md",
+                "file": "критическое мышление.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "критическое мышление.md"
               }
             }
           }
@@ -218,6 +218,13 @@
   },
   "active": "eabc43fbf2628bf8",
   "lastOpenFiles": [
+    "index.md",
+    "критическое мышление.md",
+    "конспекты - критическое мышление.md",
+    "templates/article template.md",
+    "база данных.md",
+    "home/inbox and pending and orphan notes.md",
+    "home/homepage.md",
     "Управление знаниями в Obsidian - источник.md",
     "последовательность и постепенность обработки информации.md",
     "идеи формирующие рабочий процесс в контексте базы знаний.md",
@@ -234,16 +241,9 @@
     "обработка информации для базы знаний.md",
     "конспекты по статье Управление_знаниями_obsidian.md",
     "projects/articles.md",
-    "home/homepage.md",
-    "база данных.md",
     "без страха и без плана обрабатывать информацию.md",
-    "index.md",
     "templates/_inbox template.md",
     "home/buttons.md",
-    "Article.md",
-    "home/inbox and pending and orphan notes.md",
-    "home/help.md",
-    "NewArticle.md",
     "projects/books",
     "Untitled.canvas",
     "home/Untitled.canvas",
